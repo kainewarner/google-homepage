@@ -1,1 +1,1 @@
-# google-homepage. this a pgoogle homepage project for the odin project
+# google-homepage. this a google homepage project for the odin project
